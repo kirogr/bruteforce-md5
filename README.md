@@ -8,3 +8,5 @@ A distributed engine/dispatcher system for brute-forcing MD5 hashes. Using lexic
 `client.py` - The user prompt requests the server to brute-force a specific MD5 hash and receive the result once found.
 
 This project was assigned to me during high school as part of a mission to create a small project that performs "brute-forcing".
+
+![image](https://github.com/user-attachments/assets/7d13d241-a3c5-401c-a698-1dcd11210b4c)
